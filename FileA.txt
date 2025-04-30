@@ -1,5 +1,3 @@
 New File A
 
-Add Hotfix RC1
-
-Add Hotfix release 1.0
+Add TEST2 changes
